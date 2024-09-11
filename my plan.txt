@@ -1,0 +1,2 @@
+Planing saya
+- membuat website to do list menggunkan html css js
